@@ -33,3 +33,6 @@ for i in centroids.keys():
 plt.xlim(0, 80)
 plt.ylim(0, 80)
 plt.show()
+
+
+#rafael Almeida
